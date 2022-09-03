@@ -8,4 +8,4 @@ cron();
 
 setInterval(() => {
   cron();
-}, 300);
+}, 30000);
